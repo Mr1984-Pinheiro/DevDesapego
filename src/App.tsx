@@ -1,13 +1,12 @@
-import './App.css'
 
 function App() {
   
   return (
-    <>
-     <h1>Desapego</h1>
-        
-    </>
-  )
+    <div>
+      
+           
+      </div>
+  );
 }
 
-export default App
+export default App;
