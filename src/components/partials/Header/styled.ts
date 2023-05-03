@@ -2,11 +2,11 @@ import styled from 'styled-components';
 
 export const HeaderArea = styled.div`
 background-color:#FFF;
-height:60px;
-border-bottom:1px solid #CCC;
+height:3.75rem;
+border-bottom: 1px solid #CCC;
 
 .container {
-    max-width:1000px;
+    max-width:62.5rem;
     margin:auto;
     display:flex;
 }
@@ -21,15 +21,17 @@ a {
     align-items:center;
     height:60px;
 
-    .logo-1,
-    .logo-2,
-    .logo-3 {
+    .logo1,
+    .logo2,
+    .logo3,
+    .logo4 {
         font-size:27px;
         font-weight:bold;
     }
-    .logo-1 { color:#FF0000; }
-    .logo-2 { color:#00FF00; }
-    .logo-3 { color:#0000FF; }
+        .logo1{ color:#FF0000}
+        .logo2 { color:#00FF00}
+        .logo3 { color:#a2a}
+        .logo4 { color:#0000FF}
 }
 
 nav {

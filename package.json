@@ -20,7 +20,8 @@
     "react-router-dom": "^6.11.0",
     "redux": "^4.2.1",
     "sort-by": "^1.2.0",
-    "styled-components": "^5.3.10"
+    "styled-components": "^5.3.10",
+    "ts-cookies": "^1.0.0"
   },
   "devDependencies": {
     "@types/js-cookie": "^3.0.3",

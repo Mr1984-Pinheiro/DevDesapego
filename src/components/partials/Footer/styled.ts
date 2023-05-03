@@ -10,4 +10,5 @@ export const FooterArea = styled.div`
     font-size:14px;
     border-top:1px solid #CCC;
     margin-top:20px;
+    background: #000 ;
 `;
